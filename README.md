@@ -1,3 +1,3 @@
 # Práctica Caja Negra
 
-Punto 1:
+Hecha la config inicial
